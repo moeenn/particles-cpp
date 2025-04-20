@@ -20,4 +20,4 @@ $ cmake .. -D CMAKE_BUILD_TYPE=Release && make
 
 ### Screenshot
 
-![Screenshot](./screeshots/01.png "Screenshot")
+![Screenshot](./screenshots/01.png "Screenshot")
