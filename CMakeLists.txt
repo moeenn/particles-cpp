@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(sandbox VERSION 1.0.0 LANGUAGES CXX)
+project(particles VERSION 1.0.0 LANGUAGES CXX)
 
 # generate the compile_commands.json file.
 set(CMAKE_EXPORT_COMPILE_COMMANDS 1)
