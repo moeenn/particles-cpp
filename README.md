@@ -16,3 +16,8 @@ $ cmake .. -D CMAKE_BUILD_TYPE=Release && make
 ```
 
 **Note**: The compiled binary will be placed in `./build/` directory.
+
+
+### Screenshot
+
+![Screenshot](./screeshots/01.png "Screenshot")
